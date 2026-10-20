@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "edu.fudan.campusbazaar",
+    "bundleName": "edu.fudan.campusbazaar.com",
     "vendor": "fudan",
     "versionCode": 1000000,
     "versionName": "1.0.0",
